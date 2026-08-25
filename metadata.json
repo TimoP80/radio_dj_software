@@ -1,0 +1,7 @@
+{
+  "name": "DJ Nova - Midnight Frequency Radio",
+  "description": "Live, charismatic interactive AI Radio DJ hosting Midnight Frequency with real audio file playback from your hard drive, search-grounded live city forecasts & headlines, voice banter, real-time ducking, and interactive hotline.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
